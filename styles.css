@@ -70,3 +70,17 @@ button:hover {
   }
 }
 
+header {
+      text-align: center;
+      margin-bottom: 30px;
+}
+
+img.hero {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin-top: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+
